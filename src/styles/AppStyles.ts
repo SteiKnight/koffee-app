@@ -19,6 +19,6 @@ export const GlobalStyle = createGlobalStyle`
    }
 `
 export const Wrapper = styled.div`
-   
+
 `
 
